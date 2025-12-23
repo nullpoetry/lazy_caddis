@@ -1,10 +1,12 @@
 # lazy_caddis
+
 _____          _____    _____   _____   _____  
   / ____|   /\   |  __ \  / ____| |  __ \ |  __ \ 
  | |       /  \  | |__) || |      | |  | || |  | |
  | |      / /\ \ |  _  / | |      | |  | || |  | |
  | |____ / ____ \| | \ \ | |____  | |__| || |__| |
   \_____/_/    \_\_|  \_\ \_____| |_____/ |_____/ 
+
                                                    
         /\\             .: Cased.A :.             
        /  \\                                       
@@ -18,7 +20,7 @@ _____          _____    _____   _____   _____
       \\ /\\                                        
        \\/\\
 
-🏗️ The System Stack: A "Quiet Loom"
+The System Stack: A "Quiet Loom"
 We have removed legacy systems like HDF5 and high-overhead JavaScript libraries (Three.js) in favor of a lean, secure, and performant stack in 2025:
 
 
@@ -125,7 +127,10 @@ Compile the Logic: Use mojo build to compile the Darwinian KD-Tree logic to a WA
 Run the UI: Open the index.html file hosting the p5.js ES module in your browser.
 
 The system is compiled, protected, and visually stunning. Enjoy your naturally purified folding GUI browser! If you want to tweak the code further (e.g., full GoL grid or real WASM linkage), hit me up.
-      
+
+
+
+
         /\\
        /  \\
       / ** \\
