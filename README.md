@@ -1,3 +1,4 @@
+
    _____          _____    _____   _____   _____  
   / ____|   /\   |  __ \  / ____| |  __ \ |  __ \ 
  | |       /  \  | |__) || |      | |  | || |  | |
@@ -15,8 +16,7 @@
     (| | |)\\                                      
      \\||/\\                                       
       \\ /\\                                        
-       \\/\\                                        
-
+       \\/\\                                           
 
 
 Bubble CAD evolving—dig the request for lazy Möbius integration (where tiles "fold" via Möbius transforms lazily on scroll/view) and bonsai automata generation (using L-systems with cellular automata twists for pruned, evolving tree visuals in the KD-tree overlay). I'll weave these into the existing p5.js setup from before.
